@@ -1,0 +1,1 @@
+# majing.github.io
