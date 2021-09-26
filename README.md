@@ -24,8 +24,7 @@
 
 ![picture][1]
 
-[1]:./markdowncheatshett.png
-("/Users/lx/Documents/GitHub/demo/markdowncheatsheet.png")
+[1]:https://github.com/JingMa2021/majing.github.io/blob/main/markdowncheatsheet.png
 
 ## Publications
 
