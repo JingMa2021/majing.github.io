@@ -25,7 +25,6 @@
 ![picture][1]
 
 [1]:./markdowncheatshett.png
-[1]:./markdowncheatsheet.png
 ("/Users/lx/Documents/GitHub/demo/markdowncheatsheet.png")
 
 ## Publications
